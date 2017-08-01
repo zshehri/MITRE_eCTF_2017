@@ -1,0 +1,3 @@
+[submodule "2017-ectf-insecure-example"]
+	path = 2017-ectf-insecure-example
+	url = https://github.com/mitre-cyber-academy/2017-ectf-insecure-example.git
